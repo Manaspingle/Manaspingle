@@ -110,7 +110,7 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manaspingle&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Manaspingle&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -131,7 +131,7 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
   <img src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>👆 To activate the snake animation above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your `Manaspingle/Manaspingle` repo — it auto-generates and commits that SVG on a schedule.</sub>
+<sub>⚙️ Setup (one-time, ~2 min): in your `Manaspingle/Manaspingle` repo, go to **Actions → New workflow → set up a workflow yourself**, and paste the `snake.yml` file below. Once it runs, this snake will animate your real contribution graph.</sub>
 
 <br/><br/>
 

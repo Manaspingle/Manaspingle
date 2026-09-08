@@ -41,16 +41,15 @@
 
 I'm an Electronics & Telecommunication Engineering student who builds at the intersection of **AI/ML, Cloud, and DevOps** — from CNN-based classification pipelines to distributed, containerized systems that real people use. I care less about "does it work" and more about *does it scale, does it hold up under real usage, and does it ship*.
 
-- 🧠 **AI/ML** — I design and train models (TensorFlow, OpenCV, scikit-image) and turn them into full pipelines, not just notebooks
-- ☁️ **Cloud & Infrastructure** — Firebase, PostgreSQL, and REST/RAG-based systems architected for real deployments, not toy demos
-- ⚙️ **DevOps mindset** — Docker, Kubernetes, and Git-driven workflows baked into how I build, not bolted on after
-- 📊 Sharpened my data instincts as a **Data Engineering Intern**, cleaning and analyzing real-world railway datasets with Python & Pandas
-- 🏗️ Shipped three production-style projects — a live donor-matching network, a satellite image classifier, and a P2P file-sharing platform — each deployed and adopted by real users
-- 🏆 Competitive programmer: Pupil @ Codeforces · 1★ @ CodeChef · Highest CGPA Award (First Year)
-- 🎥 Beyond code, I teach what I learn — two Instagram pages and a YouTube channel breaking down **business, AI/ML, and cloud computing** for other builders
+- 🧠 **AI/ML** : I design and train models (TensorFlow, OpenCV, scikit-image) and turn them into full pipelines, not just notebooks
+- ☁️ **Cloud & Infrastructure** : Firebase, PostgreSQL, MYSql, Redis, Supabase and REST/RAG-based systems architected for real deployments
+- ⚙️ **DevOps mindset** : Docker, Kubernetes, and Git-driven workflows baked into how I build, not bolted on after
+- 🏗️ Shipped three production-style projects : a live donor-matching network, a satellite image classifier, and a P2P file-sharing platform — each deployed and adopted by real users
+- 🏆 Competitive programmer: Pupil @ Codeforces (max. 1366) · 1★ @ CodeChef (max. 1180) · Highest CGPA Award (First Year)
+- 🎥 Beyond code, I teach what I learn : two Instagram pages and a YouTube channel breaking down **business, AI/ML, and cloud computing** for other builders
 - 🤝 **Actively seeking research opportunities and internships** in **AI/ML, Cloud Computing, and DevOps** — always up for a conversation about interesting problems in this space
 
-> *Currently leveling up my Machine Learning depth and cloud-native/Kubernetes-based DevOps skills — one deployed project at a time.*
+> *Currently leveling up my Machine Learning depth and cloud-native/Kubernetes-based DevOps skills.*
 
 <br/>
 
@@ -58,9 +57,9 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
 
 | Platform | Focus |
 |---|---|
-| 📸 [Instagram (Business)](https://www.instagram.com/manaspingle6174) | Business & entrepreneurship content |
+| 📸 [Instagram (Business — @manaspingle6174)](https://www.instagram.com/manaspingle6174) | Business & entrepreneurship content |
 | 📸 [Instagram (Coding — @manasxcodes)](https://www.instagram.com/manasxcodes) | Coding, AI/ML & tech content |
-| ▶️ [YouTube](https://www.youtube.com/@ManasPingle6174) | Business, AI/ML & Cloud Computing |
+| ▶️ [YouTube](https://www.youtube.com/@ManasPingle6174) | AI/ML, Cloud Computing and Coding |
 
 <br/>
 
@@ -117,11 +116,22 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub>⚙️ Nothing shows here until you set this up (one-time, ~2 min): in your `Manaspingle/Manaspingle` repo, go to **Actions → New workflow → set up a workflow yourself**, paste in the `snake.yml` file, commit, then run it once manually. After that it animates your real contribution graph automatically.</sub>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 <br/><br/>
 

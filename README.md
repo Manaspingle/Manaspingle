@@ -113,25 +113,15 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
   <img src="https://streak-stats.demolab.com/?user=Manaspingle&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manaspingle&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manaspingle&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>⚙️ Setup (one-time, ~2 min): in your `Manaspingle/Manaspingle` repo, go to **Actions → New workflow → set up a workflow yourself**, and paste the `snake.yml` file below. Once it runs, this snake will animate your real contribution graph.</sub>
+<sub>⚙️ Nothing shows here until you set this up (one-time, ~2 min): in your `Manaspingle/Manaspingle` repo, go to **Actions → New workflow → set up a workflow yourself**, paste in the `snake.yml` file, commit, then run it once manually. After that it animates your real contribution graph automatically.</sub>
 
 <br/><br/>
 

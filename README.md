@@ -53,15 +53,6 @@ I'm an Electronics & Telecommunication Engineering student who builds at the int
 
 <br/>
 
-## 🎬 Content Creation
-
-| Platform | Focus |
-|---|---|
-| 📸 [Instagram (Business — @manaspingle6174)](https://www.instagram.com/manaspingle6174) | Business & entrepreneurship content |
-| 📸 [Instagram (Coding — @manasxcodes)](https://www.instagram.com/manasxcodes) | Coding, AI/ML & tech content |
-| ▶️ [YouTube](https://www.youtube.com/@ManasPingle6174) | AI/ML, Cloud Computing and Coding |
-
-<br/>
 
 ## 🛠️ Tech Stack & Tools
 

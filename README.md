@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=200&section=header&text=Hi%20there!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20Manas%20Pingle&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I+am+Manas+Pingle;Building+with+AI%2FML%2C+Cloud+%26+DevOps;Turning+ideas+into+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi%2C+I+am+Manas+Pingle;Building+with+AI%2FML%2C+Cloud+%26+DevOps;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <br/>
 
-## 🚀 About Me
+## 🚀 About me
 
 I'm an Electronics & Telecommunication Engineering student who builds at the intersection of **AI/ML, Cloud, and DevOps** — from CNN-based classification pipelines to distributed, containerized systems that real people use. I care less about "does it work" and more about *does it scale, does it hold up under real usage, and does it ship*.
 

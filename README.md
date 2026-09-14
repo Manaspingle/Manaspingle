@@ -1,11 +1,12 @@
 <div align="center">
+<img src="./assets/github-header.png" width="100%" alt="Manas Pingle GitHub profile header"/>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDkwMCAyMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImRvbWVGaWxsIiBjeD0iNTAlIiBjeT0iMTAlIiByPSI3NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYzAyNmYwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTUlIiBzdG9wLWNvbG9yPSIjN2IxZmEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzRhMGY2ZSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICAgIDxjbGlwUGF0aCBpZD0iYXZhdGFyQ2xpcCI+CiAgICAgIDxjaXJjbGUgY3g9IjQ1MCIgY3k9Ijc4IiByPSI0OCIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CgogIDwhLS0gYmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIyMCIgZmlsbD0iIzE3MGEyMiIvPgoKICA8IS0tIGRvbWUgLS0+CiAgPHBhdGggZD0iTTAsMjIwIFE0NTAsLTE4MCA5MDAsMjIwIFoiIGZpbGw9InVybCgjZG9tZUZpbGwpIi8+CiAgPHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI0IiBmaWxsPSIjYzA4NGZjIi8+CgogIDwhLS0gYXZhdGFyIC0tPgogIDxjaXJjbGUgY3g9IjQ1MCIgY3k9Ijc4IiByPSI1MyIgZmlsbD0iIzE3MGEyMiIgc3Ryb2tlPSIjZTlkNWZmIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8aW1hZ2UgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL01hbmFzcGluZ2xlLnBuZyIgeD0iNDAyIiB5PSIzMCIgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiBjbGlwLXBhdGg9InVybCgjYXZhdGFyQ2xpcCkiLz4KCiAgPCEtLSB0aXRsZSAtLT4KICA8dGV4dCB4PSI0NTAiIHk9IjE2MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjM0IiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjZmZmZmZmIiBsZXR0ZXItc3BhY2luZz0iMS41Ij5IRUxMTyBXT1JMRDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjE4MyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSIjZjNlOGZmIiBsZXR0ZXItc3BhY2luZz0iNCI+V0VMQ09NRSBUTyBNWSBQUk9GSUxFPC90ZXh0PgoKICA8IS0tIHNpZGUgbGlua3MgLS0+CiAgPHRleHQgeD0iMjUiIHk9IjExOCIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjZjNlOGZmIj7wn5SXIGdpdGh1Yi5jb20vTWFuYXNwaW5nbGU8L3RleHQ+CiAgPHRleHQgeD0iODc1IiB5PSIxMTgiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2YzZThmZiI+4pyJ77iPIG1hbmFzcGluZ2xlLmRldkBnbWFpbC5jb208L3RleHQ+CgogIDwhLS0gZGVjb3JhdGl2ZSBkaWFnb25hbCBzdHJpcGVzLCBsZWZ0IC0tPgogIDxnIHN0cm9rZT0iI2YzZThmZiIgc3Ryb2tlLXdpZHRoPSIyLjUiIG9wYWNpdHk9IjAuNTUiPgogICAgPGxpbmUgeDE9IjMwIiB5MT0iMjA4IiB4Mj0iNjUiIHkyPSIxNjAiLz4KICAgIDxsaW5lIHgxPSI1NSIgeTE9IjIwOCIgeDI9IjkwIiB5Mj0iMTYwIi8+CiAgICA8bGluZSB4MT0iODAiIHkxPSIyMDgiIHgyPSIxMTUiIHkyPSIxNjAiLz4KICAgIDxsaW5lIHgxPSIxMDUiIHkxPSIyMDgiIHgyPSIxNDAiIHkyPSIxNjAiLz4KICA8L2c+CiAgPCEtLSBkZWNvcmF0aXZlIGRpYWdvbmFsIHN0cmlwZXMsIHJpZ2h0IC0tPgogIDxnIHN0cm9rZT0iI2YzZThmZiIgc3Ryb2tlLXdpZHRoPSIyLjUiIG9wYWNpdHk9IjAuNTUiPgogICAgPGxpbmUgeDE9Ijg3MCIgeTE9IjIwOCIgeDI9IjgzNSIgeTI9IjE2MCIvPgogICAgPGxpbmUgeDE9Ijg0NSIgeTE9IjIwOCIgeDI9IjgxMCIgeTI9IjE2MCIvPgogICAgPGxpbmUgeDE9IjgyMCIgeTE9IjIwOCIgeDI9Ijc4NSIgeTI9IjE2MCIvPgogICAgPGxpbmUgeDE9Ijc5NSIgeTE9IjIwOCIgeDI9Ijc2MCIgeTI9IjE2MCIvPgogIDwvZz4KPC9zdmc+Cg==" width="100%"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Hi%2C+I+am+Manas+Pingle;Building+with+AI%2FML%2C+Cloud+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi%2C+I+am+Manas+Pingle;AI%2FML+Developer;Content+Creator;Full+Stack+Developer;Competitive+Programmer" alt="Hi, I am Manas Pingle; AI/ML Developer; Content Creator; Full Stack Developer; Competitive Programmer" />
 </a>
 
 <br/><br/>
@@ -108,10 +109,12 @@ I am a student of Electronics & Telecommunication Engineering, a competitive pro
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Manaspingle/Manaspingle/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake"/>
+  </picture>
 </div>
-
-<sub>⚙️ Nothing shows here until you set this up (one-time, ~2 min): in your `Manaspingle/Manaspingle` repo, go to **Actions → New workflow → set up a workflow yourself**, paste in the `snake.yml` file, commit, then run it once manually. After that it animates your real contribution graph automatically.</sub>
 
 <br/><br/>
 

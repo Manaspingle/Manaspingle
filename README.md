@@ -87,11 +87,7 @@ I am a student of Electronics & Telecommunication Engineering, a competitive pro
 
 **Concepts:** Machine Learning · Data Structures & Algorithms · SOLID Principles · Design Patterns · REST APIs · RAG
 
-<br/>
-
-<br/>
-
-
+<br/><br/>
 
 ## 📊 GitHub Stats
 

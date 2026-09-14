@@ -121,9 +121,6 @@ I am a student of Electronics & Telecommunication Engineering, a competitive pro
     />
   </picture>
 </p>
-
-<br>
-
 <br/><br/>
 
 ## 🏅 GitHub Achievements
